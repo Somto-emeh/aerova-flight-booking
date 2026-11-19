@@ -1,0 +1,12 @@
+Add your downloaded images to this folder using these exact filenames:
+hero-plane.jpg
+lagos-london.jpg
+dubai.jpg
+paris.jpg
+new-york.jpg
+abuja.jpg
+accra.jpg
+airplane-window.jpg
+airport-terminal.jpg
+
+If you use .png or .webp instead, update the matching image path in the HTML/CSS.
